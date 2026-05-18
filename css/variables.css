@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #243b6b;
+    --secondary-color: #f5b5c5;
+    --bg-gradient: linear-gradient(to bottom, #b7c9ff, #f7b4b4);
+
+    --white: #ffffff;
+    --text-dark: #1f2937;
+
+    --card-bg: rgba(255,255,255,0.35);
+
+    --shadow-soft: 0 8px 20px rgba(0,0,0,0.08);
+
+    --radius-main: 20px;
+}
